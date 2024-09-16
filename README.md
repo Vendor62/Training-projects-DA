@@ -16,4 +16,4 @@
 [Проект 8. Создание интерактивного дашборда в Tableau.](https://github.com/Vendor62/Training-projects-DA/blob/main/Tableau_dashboards.ipynb)</br>
 Визуализации, исследовательский анализ.</br></br>
 [Проект 9. Выпускная работа: анализ оттока клиентов в банковской сфере.](https://github.com/Vendor62/Training-projects-DA/blob/main/final_poject.ipynb)</br>
-Сегментация, визуализации, исследовательский анализ, статистический анализ.</br></br>
+Сегментация, SQL, визуализации, исследовательский анализ, статистический анализ.</br></br>
