@@ -1,6 +1,6 @@
 # Учебные проекты Яндекс Практикум "Анализ данных"
 [Проект 1. Недвижимость: исследование объявлений о продаже квартир.](https://github.com/Vendor62/Training-projects-DA/blob/main/Realty_EDA.ipynb)</br>
-Исследовательский анализ данных.</br></br>
+Исследовательский анализ данных, предобработка данных.</br></br>
 [Проект 2. Сервис аренды самокатов: статистический анализ данных.](https://github.com/Vendor62/Training-projects-DA/blob/main/Gofast_rent_EDA_SDA.ipynb)</br>
 Проверка статистических гипотез, исследовательский анализ данных.</br></br>
 [Проект 3. Исследование датасета о продаже компьютерных игр.](https://github.com/Vendor62/Training-projects-DA/blob/main/Games_EDA_SDA.ipynb)</br>
